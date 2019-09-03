@@ -326,9 +326,6 @@ Apache-2.0
  
 
 
-speak-tts
-MIT
-
 webpack
 MIT
 Copyright JS Foundation and other contributors
